@@ -14,7 +14,7 @@ Social Circles dataset to uncover that structure.
 
 ---
 
-## 🔍 What's Analysed
+## 🔍 What's Analyzed
 
 ### 1. 📐 Basic Network Topology
 - Number of nodes and edges
