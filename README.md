@@ -66,7 +66,7 @@ facebook_social_network_project/
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Methods:** Graph Construction · Degree Distribution · Clustering Coefficient · Label Propagation · Degree / Betweenness / Closeness / Eigenvector Centrality · PCA Visualisation · Assortativity Analysis
+**Methods:** Graph Construction · Degree Distribution · Clustering Coefficient · Label Propagation · Degree / Betweenness / Closeness / Eigenvector Centrality · Assortativity Analysis
 
 ---
 
@@ -81,9 +81,7 @@ jupyter notebook
 
 Open `complex_network_codes_Varaga_Haghoubians.ipynb` and run all cells.
 
-> **Dataset:** Facebook Social Circles — available from
-> [SNAP (Stanford Network Analysis Project)](https://snap.stanford.edu/data/ego-Facebook.html).
-> Download `facebook_combined.txt.gz` and update the `file_path` variable in the notebook.
+> **Dataset:** Download `facebook_combined.txt.gz` from [SNAP](https://snap.stanford.edu/data/ego-Facebook.html) into `facebook_social_network_project/` and run the notebook from that folder.
 
 ---
 
